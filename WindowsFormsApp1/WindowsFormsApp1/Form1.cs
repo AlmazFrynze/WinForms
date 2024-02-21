@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Здраствуй!");
+            MessageBox.Show("Здраствуйте! Как ваши дела?");
         }
 
         private void Form1_Load(object sender, EventArgs e)
